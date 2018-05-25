@@ -98,7 +98,7 @@
 					"invalid": "Ugyldig pung addresse...",
 					"empty": "Ugyldigt beløb af tokens...",
 					"button": "Overfør",
-					"hint": " 1). Husk, der er en fast 10% gebyr på alle tokens overført <br> 2). Dine udestående Gauntlet belønninger vil automatisk, blive udbetalt til din eth pung, når du overføre tokens. Bliv ikke nervøs.<br> 3). Desto højere gas pris du tilbydder, desto hurtigere vil ETH minerne opsamle, og bekræfte din transaktion."
+					"hint": " 1). Husk, der er en fast 10% gebyr på alle tokens overført <br> 2). Dine udestående Gauntlet belønninger, vil automatisk blive udbetalt til din eth pung, når du overføre tokens. Bliv ikke nervøs.<br> 3). Desto højere gas pris du tilbydder, desto hurtigere vil ETH minerne opsamle, og bekræfte din transaktion."
 				},
 				"recent": {
 					"title": "Seneste overførelses ordrer",
